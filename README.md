@@ -1,4 +1,4 @@
-### Hi there👋, my name is Om🕉.
+### Hi there 👋, my name is Om 🕉.
 
 - 🏫 I’m currently pursuing Electronics Engineering.
 - 🌱 I’m currently learning Flask, Django and FastAPI.
